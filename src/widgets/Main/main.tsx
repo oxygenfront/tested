@@ -1,6 +1,6 @@
 import { Cards } from '@/widgets/Cards'
-import { WidgetSearch } from '@/widgets/WidgetSearch'
-import { WidgetSelect } from '@/widgets/WidgetSelect'
+import { WidgetSearch } from '@/features/WidgetSearch'
+import { WidgetSelect } from '@/features/WidgetSelect'
 import { AppBar, Box, Button } from '@mui/material'
 import { type FC, useCallback, useState } from 'react'
 
